@@ -1,3 +1,6 @@
 [submodule "haochenyou-project-1"]
 	path = haochenyou-project-1
+	url = https://github.com/Yukino-chyan/SWAN20003_Project1.git
+[submodule "haochenyou-project-2"]
+	path = haochenyou-project-2
 	url = https://github.com/Yukino-chyan/SWAN20003_Project2.git
